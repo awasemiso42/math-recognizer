@@ -1,0 +1,950 @@
+{
+ "set": "v1",
+ "repeats": {
+  "symbol": 3,
+  "expression": 1
+ },
+ "prompts": [
+  {
+   "id": "s-0",
+   "kind": "symbol",
+   "latex": "0"
+  },
+  {
+   "id": "s-1",
+   "kind": "symbol",
+   "latex": "1"
+  },
+  {
+   "id": "s-2",
+   "kind": "symbol",
+   "latex": "2"
+  },
+  {
+   "id": "s-3",
+   "kind": "symbol",
+   "latex": "3"
+  },
+  {
+   "id": "s-4",
+   "kind": "symbol",
+   "latex": "4"
+  },
+  {
+   "id": "s-5",
+   "kind": "symbol",
+   "latex": "5"
+  },
+  {
+   "id": "s-6",
+   "kind": "symbol",
+   "latex": "6"
+  },
+  {
+   "id": "s-7",
+   "kind": "symbol",
+   "latex": "7"
+  },
+  {
+   "id": "s-8",
+   "kind": "symbol",
+   "latex": "8"
+  },
+  {
+   "id": "s-9",
+   "kind": "symbol",
+   "latex": "9"
+  },
+  {
+   "id": "s-a",
+   "kind": "symbol",
+   "latex": "a"
+  },
+  {
+   "id": "s-b",
+   "kind": "symbol",
+   "latex": "b"
+  },
+  {
+   "id": "s-c",
+   "kind": "symbol",
+   "latex": "c"
+  },
+  {
+   "id": "s-d",
+   "kind": "symbol",
+   "latex": "d"
+  },
+  {
+   "id": "s-e",
+   "kind": "symbol",
+   "latex": "e"
+  },
+  {
+   "id": "s-f",
+   "kind": "symbol",
+   "latex": "f"
+  },
+  {
+   "id": "s-g",
+   "kind": "symbol",
+   "latex": "g"
+  },
+  {
+   "id": "s-h",
+   "kind": "symbol",
+   "latex": "h"
+  },
+  {
+   "id": "s-i",
+   "kind": "symbol",
+   "latex": "i"
+  },
+  {
+   "id": "s-j",
+   "kind": "symbol",
+   "latex": "j"
+  },
+  {
+   "id": "s-k",
+   "kind": "symbol",
+   "latex": "k"
+  },
+  {
+   "id": "s-l",
+   "kind": "symbol",
+   "latex": "l"
+  },
+  {
+   "id": "s-m",
+   "kind": "symbol",
+   "latex": "m"
+  },
+  {
+   "id": "s-n",
+   "kind": "symbol",
+   "latex": "n"
+  },
+  {
+   "id": "s-o",
+   "kind": "symbol",
+   "latex": "o"
+  },
+  {
+   "id": "s-p",
+   "kind": "symbol",
+   "latex": "p"
+  },
+  {
+   "id": "s-q",
+   "kind": "symbol",
+   "latex": "q"
+  },
+  {
+   "id": "s-r",
+   "kind": "symbol",
+   "latex": "r"
+  },
+  {
+   "id": "s-s",
+   "kind": "symbol",
+   "latex": "s"
+  },
+  {
+   "id": "s-t",
+   "kind": "symbol",
+   "latex": "t"
+  },
+  {
+   "id": "s-u",
+   "kind": "symbol",
+   "latex": "u"
+  },
+  {
+   "id": "s-v",
+   "kind": "symbol",
+   "latex": "v"
+  },
+  {
+   "id": "s-w",
+   "kind": "symbol",
+   "latex": "w"
+  },
+  {
+   "id": "s-x",
+   "kind": "symbol",
+   "latex": "x"
+  },
+  {
+   "id": "s-y",
+   "kind": "symbol",
+   "latex": "y"
+  },
+  {
+   "id": "s-z",
+   "kind": "symbol",
+   "latex": "z"
+  },
+  {
+   "id": "s-upper-A",
+   "kind": "symbol",
+   "latex": "A"
+  },
+  {
+   "id": "s-upper-B",
+   "kind": "symbol",
+   "latex": "B"
+  },
+  {
+   "id": "s-upper-C",
+   "kind": "symbol",
+   "latex": "C"
+  },
+  {
+   "id": "s-upper-D",
+   "kind": "symbol",
+   "latex": "D"
+  },
+  {
+   "id": "s-upper-E",
+   "kind": "symbol",
+   "latex": "E"
+  },
+  {
+   "id": "s-upper-F",
+   "kind": "symbol",
+   "latex": "F"
+  },
+  {
+   "id": "s-upper-X",
+   "kind": "symbol",
+   "latex": "X"
+  },
+  {
+   "id": "s-upper-Y",
+   "kind": "symbol",
+   "latex": "Y"
+  },
+  {
+   "id": "s-alpha",
+   "kind": "symbol",
+   "latex": "\\alpha"
+  },
+  {
+   "id": "s-beta",
+   "kind": "symbol",
+   "latex": "\\beta"
+  },
+  {
+   "id": "s-gamma",
+   "kind": "symbol",
+   "latex": "\\gamma"
+  },
+  {
+   "id": "s-delta",
+   "kind": "symbol",
+   "latex": "\\delta"
+  },
+  {
+   "id": "s-theta",
+   "kind": "symbol",
+   "latex": "\\theta"
+  },
+  {
+   "id": "s-lambda",
+   "kind": "symbol",
+   "latex": "\\lambda"
+  },
+  {
+   "id": "s-mu",
+   "kind": "symbol",
+   "latex": "\\mu"
+  },
+  {
+   "id": "s-pi",
+   "kind": "symbol",
+   "latex": "\\pi"
+  },
+  {
+   "id": "s-sigma",
+   "kind": "symbol",
+   "latex": "\\sigma"
+  },
+  {
+   "id": "s-phi",
+   "kind": "symbol",
+   "latex": "\\phi"
+  },
+  {
+   "id": "s-omega",
+   "kind": "symbol",
+   "latex": "\\omega"
+  },
+  {
+   "id": "s-plus",
+   "kind": "symbol",
+   "latex": "+"
+  },
+  {
+   "id": "s-minus",
+   "kind": "symbol",
+   "latex": "-"
+  },
+  {
+   "id": "s-times",
+   "kind": "symbol",
+   "latex": "\\times"
+  },
+  {
+   "id": "s-cdot",
+   "kind": "symbol",
+   "latex": "\\cdot"
+  },
+  {
+   "id": "s-div",
+   "kind": "symbol",
+   "latex": "\\div"
+  },
+  {
+   "id": "s-slash",
+   "kind": "symbol",
+   "latex": "/"
+  },
+  {
+   "id": "s-equal",
+   "kind": "symbol",
+   "latex": "="
+  },
+  {
+   "id": "s-neq",
+   "kind": "symbol",
+   "latex": "\\neq"
+  },
+  {
+   "id": "s-less",
+   "kind": "symbol",
+   "latex": "<"
+  },
+  {
+   "id": "s-greater",
+   "kind": "symbol",
+   "latex": ">"
+  },
+  {
+   "id": "s-leq",
+   "kind": "symbol",
+   "latex": "\\leq"
+  },
+  {
+   "id": "s-geq",
+   "kind": "symbol",
+   "latex": "\\geq"
+  },
+  {
+   "id": "s-lparen",
+   "kind": "symbol",
+   "latex": "("
+  },
+  {
+   "id": "s-rparen",
+   "kind": "symbol",
+   "latex": ")"
+  },
+  {
+   "id": "s-lbracket",
+   "kind": "symbol",
+   "latex": "["
+  },
+  {
+   "id": "s-rbracket",
+   "kind": "symbol",
+   "latex": "]"
+  },
+  {
+   "id": "s-lbrace",
+   "kind": "symbol",
+   "latex": "\\{"
+  },
+  {
+   "id": "s-rbrace",
+   "kind": "symbol",
+   "latex": "\\}"
+  },
+  {
+   "id": "s-bar",
+   "kind": "symbol",
+   "latex": "|"
+  },
+  {
+   "id": "s-excl",
+   "kind": "symbol",
+   "latex": "!"
+  },
+  {
+   "id": "s-comma",
+   "kind": "symbol",
+   "latex": ","
+  },
+  {
+   "id": "s-period",
+   "kind": "symbol",
+   "latex": "."
+  },
+  {
+   "id": "s-degree",
+   "kind": "symbol",
+   "latex": "^{\\circ}"
+  },
+  {
+   "id": "s-to",
+   "kind": "symbol",
+   "latex": "\\to",
+   "note": "右矢印（極限の→）"
+  },
+  {
+   "id": "s-infty",
+   "kind": "symbol",
+   "latex": "\\infty"
+  },
+  {
+   "id": "s-sqrt",
+   "kind": "symbol",
+   "latex": "\\sqrt{\\phantom{x}}"
+  },
+  {
+   "id": "s-int",
+   "kind": "symbol",
+   "latex": "\\int"
+  },
+  {
+   "id": "s-sum",
+   "kind": "symbol",
+   "latex": "\\sum"
+  },
+  {
+   "id": "s-prod",
+   "kind": "symbol",
+   "latex": "\\prod"
+  },
+  {
+   "id": "e001",
+   "kind": "expression",
+   "latex": "1+2"
+  },
+  {
+   "id": "e002",
+   "kind": "expression",
+   "latex": "12-7"
+  },
+  {
+   "id": "e003",
+   "kind": "expression",
+   "latex": "3\\times4"
+  },
+  {
+   "id": "e004",
+   "kind": "expression",
+   "latex": "8\\div2"
+  },
+  {
+   "id": "e005",
+   "kind": "expression",
+   "latex": "2\\cdot5"
+  },
+  {
+   "id": "e006",
+   "kind": "expression",
+   "latex": "0.5+1.25"
+  },
+  {
+   "id": "e007",
+   "kind": "expression",
+   "latex": "-3+5"
+  },
+  {
+   "id": "e008",
+   "kind": "expression",
+   "latex": "(1+2)\\times3"
+  },
+  {
+   "id": "e009",
+   "kind": "expression",
+   "latex": "\\frac{1}{3}+\\frac{1}{6}"
+  },
+  {
+   "id": "e010",
+   "kind": "expression",
+   "latex": "\\frac{2}{3}\\times\\frac{9}{4}"
+  },
+  {
+   "id": "e011",
+   "kind": "expression",
+   "latex": "\\frac{\\frac{1}{2}}{3}"
+  },
+  {
+   "id": "e012",
+   "kind": "expression",
+   "latex": "1-\\frac{1}{x}"
+  },
+  {
+   "id": "e013",
+   "kind": "expression",
+   "latex": "\\frac{x+1}{x-1}"
+  },
+  {
+   "id": "e014",
+   "kind": "expression",
+   "latex": "\\frac{3}{4}-\\frac{1}{8}"
+  },
+  {
+   "id": "e015",
+   "kind": "expression",
+   "latex": "6\\div2(1+2)"
+  },
+  {
+   "id": "e016",
+   "kind": "expression",
+   "latex": "1.5\\times10^{3}"
+  },
+  {
+   "id": "e017",
+   "kind": "expression",
+   "latex": "2^{10}"
+  },
+  {
+   "id": "e018",
+   "kind": "expression",
+   "latex": "x^2"
+  },
+  {
+   "id": "e019",
+   "kind": "expression",
+   "latex": "x^{n+1}"
+  },
+  {
+   "id": "e020",
+   "kind": "expression",
+   "latex": "(x+1)^2"
+  },
+  {
+   "id": "e021",
+   "kind": "expression",
+   "latex": "e^{x}"
+  },
+  {
+   "id": "e022",
+   "kind": "expression",
+   "latex": "e^{-x^2}"
+  },
+  {
+   "id": "e023",
+   "kind": "expression",
+   "latex": "2^{-1}"
+  },
+  {
+   "id": "e024",
+   "kind": "expression",
+   "latex": "x^{\\frac{1}{2}}"
+  },
+  {
+   "id": "e025",
+   "kind": "expression",
+   "latex": "\\sqrt{2}"
+  },
+  {
+   "id": "e026",
+   "kind": "expression",
+   "latex": "\\sqrt{x^2+1}"
+  },
+  {
+   "id": "e027",
+   "kind": "expression",
+   "latex": "\\sqrt[3]{8}"
+  },
+  {
+   "id": "e028",
+   "kind": "expression",
+   "latex": "\\sqrt[3]{-27}"
+  },
+  {
+   "id": "e029",
+   "kind": "expression",
+   "latex": "\\sqrt{\\frac{a}{b}}"
+  },
+  {
+   "id": "e030",
+   "kind": "expression",
+   "latex": "\\frac{1}{\\sqrt{x}}"
+  },
+  {
+   "id": "e031",
+   "kind": "expression",
+   "latex": "\\sin x"
+  },
+  {
+   "id": "e032",
+   "kind": "expression",
+   "latex": "\\cos 2x"
+  },
+  {
+   "id": "e033",
+   "kind": "expression",
+   "latex": "\\tan\\theta"
+  },
+  {
+   "id": "e034",
+   "kind": "expression",
+   "latex": "\\sin^2 x+\\cos^2 x"
+  },
+  {
+   "id": "e035",
+   "kind": "expression",
+   "latex": "\\sin(x+y)"
+  },
+  {
+   "id": "e036",
+   "kind": "expression",
+   "latex": "\\sin^{-1}x"
+  },
+  {
+   "id": "e037",
+   "kind": "expression",
+   "latex": "\\arctan x"
+  },
+  {
+   "id": "e038",
+   "kind": "expression",
+   "latex": "\\sin 30^{\\circ}"
+  },
+  {
+   "id": "e039",
+   "kind": "expression",
+   "latex": "\\cos 60^{\\circ}+\\sin 45^{\\circ}"
+  },
+  {
+   "id": "e040",
+   "kind": "expression",
+   "latex": "\\log 100"
+  },
+  {
+   "id": "e041",
+   "kind": "expression",
+   "latex": "\\ln x"
+  },
+  {
+   "id": "e042",
+   "kind": "expression",
+   "latex": "\\log_2 8"
+  },
+  {
+   "id": "e043",
+   "kind": "expression",
+   "latex": "\\log_{10}x"
+  },
+  {
+   "id": "e044",
+   "kind": "expression",
+   "latex": "\\ln e^3"
+  },
+  {
+   "id": "e045",
+   "kind": "expression",
+   "latex": "\\exp(x)"
+  },
+  {
+   "id": "e046",
+   "kind": "expression",
+   "latex": "|x-1|"
+  },
+  {
+   "id": "e047",
+   "kind": "expression",
+   "latex": "|-7|"
+  },
+  {
+   "id": "e048",
+   "kind": "expression",
+   "latex": "5!"
+  },
+  {
+   "id": "e049",
+   "kind": "expression",
+   "latex": "(n+1)!"
+  },
+  {
+   "id": "e050",
+   "kind": "expression",
+   "latex": "\\binom{5}{2}"
+  },
+  {
+   "id": "e051",
+   "kind": "expression",
+   "latex": "\\sinh x"
+  },
+  {
+   "id": "e052",
+   "kind": "expression",
+   "latex": "2x+3y"
+  },
+  {
+   "id": "e053",
+   "kind": "expression",
+   "latex": "ab+bc"
+  },
+  {
+   "id": "e054",
+   "kind": "expression",
+   "latex": "x^2-5x+6"
+  },
+  {
+   "id": "e055",
+   "kind": "expression",
+   "latex": "(x-2)(x-3)"
+  },
+  {
+   "id": "e056",
+   "kind": "expression",
+   "latex": "\\pi r^2"
+  },
+  {
+   "id": "e057",
+   "kind": "expression",
+   "latex": "2\\pi r"
+  },
+  {
+   "id": "e058",
+   "kind": "expression",
+   "latex": "\\frac{a+b}{2}"
+  },
+  {
+   "id": "e059",
+   "kind": "expression",
+   "latex": "ax^2+bx+c"
+  },
+  {
+   "id": "e060",
+   "kind": "expression",
+   "latex": "x^2-1=0"
+  },
+  {
+   "id": "e061",
+   "kind": "expression",
+   "latex": "2x+3=7"
+  },
+  {
+   "id": "e062",
+   "kind": "expression",
+   "latex": "x^2+y^2=1"
+  },
+  {
+   "id": "e063",
+   "kind": "expression",
+   "latex": "x>1"
+  },
+  {
+   "id": "e064",
+   "kind": "expression",
+   "latex": "x\\leq 3"
+  },
+  {
+   "id": "e065",
+   "kind": "expression",
+   "latex": "x\\neq 0"
+  },
+  {
+   "id": "e066",
+   "kind": "expression",
+   "latex": "-1<x<1"
+  },
+  {
+   "id": "e067",
+   "kind": "expression",
+   "latex": "x^2\\geq 4"
+  },
+  {
+   "id": "e068",
+   "kind": "expression",
+   "latex": "\\int x^2\\,dx"
+  },
+  {
+   "id": "e069",
+   "kind": "expression",
+   "latex": "\\int\\sin x\\,dx"
+  },
+  {
+   "id": "e070",
+   "kind": "expression",
+   "latex": "\\int e^{2x}dx"
+  },
+  {
+   "id": "e071",
+   "kind": "expression",
+   "latex": "\\int\\frac{1}{x}dx"
+  },
+  {
+   "id": "e072",
+   "kind": "expression",
+   "latex": "\\int_0^1 x^2\\,dx"
+  },
+  {
+   "id": "e073",
+   "kind": "expression",
+   "latex": "\\int_0^{\\pi}\\sin x\\,dx"
+  },
+  {
+   "id": "e074",
+   "kind": "expression",
+   "latex": "\\int_1^e\\frac{1}{x}dx"
+  },
+  {
+   "id": "e075",
+   "kind": "expression",
+   "latex": "\\int_{-1}^{1}\\sqrt{1-x^2}\\,dx"
+  },
+  {
+   "id": "e076",
+   "kind": "expression",
+   "latex": "\\int_0^{\\infty}e^{-x}dx"
+  },
+  {
+   "id": "e077",
+   "kind": "expression",
+   "latex": "\\int x e^{x}dx"
+  },
+  {
+   "id": "e078",
+   "kind": "expression",
+   "latex": "\\int\\frac{1}{1+x^2}dx"
+  },
+  {
+   "id": "e079",
+   "kind": "expression",
+   "latex": "\\int_0^2(3x^2+1)dx"
+  },
+  {
+   "id": "e080",
+   "kind": "expression",
+   "latex": "\\frac{d}{dx}x^3"
+  },
+  {
+   "id": "e081",
+   "kind": "expression",
+   "latex": "\\frac{d}{dx}\\sin x"
+  },
+  {
+   "id": "e082",
+   "kind": "expression",
+   "latex": "\\frac{d}{dx}(x^2+1)"
+  },
+  {
+   "id": "e083",
+   "kind": "expression",
+   "latex": "\\frac{d}{dx}e^{x^2}"
+  },
+  {
+   "id": "e084",
+   "kind": "expression",
+   "latex": "\\frac{d^2}{dx^2}x^4"
+  },
+  {
+   "id": "e085",
+   "kind": "expression",
+   "latex": "\\frac{d}{dx}\\ln x"
+  },
+  {
+   "id": "e086",
+   "kind": "expression",
+   "latex": "\\lim_{x\\to0}\\frac{\\sin x}{x}"
+  },
+  {
+   "id": "e087",
+   "kind": "expression",
+   "latex": "\\lim_{x\\to\\infty}\\frac{1}{x}"
+  },
+  {
+   "id": "e088",
+   "kind": "expression",
+   "latex": "\\lim_{x\\to1}\\frac{x^2-1}{x-1}"
+  },
+  {
+   "id": "e089",
+   "kind": "expression",
+   "latex": "\\lim_{x\\to\\infty}(1+\\frac{1}{x})^x"
+  },
+  {
+   "id": "e090",
+   "kind": "expression",
+   "latex": "\\lim_{h\\to0}\\frac{(x+h)^2-x^2}{h}"
+  },
+  {
+   "id": "e091",
+   "kind": "expression",
+   "latex": "\\sum_{k=1}^{10}k"
+  },
+  {
+   "id": "e092",
+   "kind": "expression",
+   "latex": "\\sum_{k=1}^{n}k^2"
+  },
+  {
+   "id": "e093",
+   "kind": "expression",
+   "latex": "\\sum_{n=0}^{\\infty}\\frac{1}{2^n}"
+  },
+  {
+   "id": "e094",
+   "kind": "expression",
+   "latex": "\\prod_{k=1}^{5}k"
+  },
+  {
+   "id": "e095",
+   "kind": "expression",
+   "latex": "\\begin{pmatrix}1&2\\\\3&4\\end{pmatrix}"
+  },
+  {
+   "id": "e096",
+   "kind": "expression",
+   "latex": "\\det\\begin{pmatrix}a&b\\\\c&d\\end{pmatrix}"
+  },
+  {
+   "id": "e097",
+   "kind": "expression",
+   "latex": "e^{i\\pi}+1"
+  },
+  {
+   "id": "e098",
+   "kind": "expression",
+   "latex": "\\frac{-b+\\sqrt{b^2-4ac}}{2a}"
+  },
+  {
+   "id": "e099",
+   "kind": "expression",
+   "latex": "\\sqrt{3^2+4^2}"
+  },
+  {
+   "id": "e100",
+   "kind": "expression",
+   "latex": "\\frac{1}{2}\\int_0^1 x\\,dx"
+  },
+  {
+   "id": "e101",
+   "kind": "expression",
+   "latex": "2\\sin x\\cos x"
+  },
+  {
+   "id": "e102",
+   "kind": "expression",
+   "latex": "\\log_2 1024-\\sqrt{144}"
+  },
+  {
+   "id": "e103",
+   "kind": "expression",
+   "latex": "\\frac{\\pi}{4}"
+  },
+  {
+   "id": "e104",
+   "kind": "expression",
+   "latex": "\\alpha+\\beta"
+  }
+ ]
+}
